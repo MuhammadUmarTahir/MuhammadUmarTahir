@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tahirumar160@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-website-infiumar.vercel.app/](https://portfolio-website-infiumar.vercel.app/)
+- 📄 Know about my experiences [[https://portfolio-website-infiumar.vercel.app](https://umartahir.netlify.app/)/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
